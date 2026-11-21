@@ -11,7 +11,7 @@
 // WiFi credentials
 // ===========================
 const char *ssid = "1F2@5G@AISHWARYA HSTL";
-const char *password = "aishu@2022";
+const char *password = "sree@2022";
 
 // ===========================
 // Servo
