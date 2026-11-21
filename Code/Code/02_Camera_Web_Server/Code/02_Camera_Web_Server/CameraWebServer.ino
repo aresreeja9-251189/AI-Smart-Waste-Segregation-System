@@ -10,8 +10,8 @@
 // ===========================
 // WiFi credentials
 // ===========================
-const char *ssid = "Punithreddy";
-const char *password = "Mythu#173";
+const char *ssid = "1F2@5G@AISHWARYA HSTL";
+const char *password = "aishu@2022";
 
 // ===========================
 // Servo
